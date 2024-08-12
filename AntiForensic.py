@@ -13,7 +13,7 @@ import subprocess
 from colorama import init, Fore
 
 # Debug
-debug_mode = True
+debug_mode = False
 
 
 # Globale Variablen
