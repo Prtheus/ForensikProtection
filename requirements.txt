@@ -2,5 +2,9 @@ pynput
 psutil
 pygame
 colorama
-pyobjc-framework-AppKit ; sys_platform == 'darwin'
-PyObjC ; sys_platform == 'darwin'
+art
+pyautogui
+# Apple-specific dependencies
+pyobjc-framework-AppKit #Apple
+pyobjc-core #Apple
+pyobjc #Apple
