@@ -1,3 +1,9 @@
+"""
+This version is unsecure. Please use the newest version for the maximum in security
+https://github.com/Prtheus/AntiForensikProtection/tree/main
+"""
+
+
 import os
 import sys
 import time
