@@ -1,4 +1,4 @@
-# AntiForensikProtection
+# ForensikProtection
 This tool helps you to protect your computer when you are not allowed to lock the screen.
 When enabled, you are not allowed to press any key except the password (and Shift), and mouse clicks are also locked.
 In safe mode, you cannot insert a USB stick or move the mouse.
